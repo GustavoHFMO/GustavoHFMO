@@ -1,5 +1,3 @@
-# Gustavo Henrique Ferreira de Miranda Oliveira
-
 ## 🔬 Research Areas
 - Machine Learning for Time Series  
 - Concept Drift  
