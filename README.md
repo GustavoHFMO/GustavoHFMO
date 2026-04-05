@@ -1,8 +1,3 @@
-## 🔬 Research Areas
-- Machine Learning for Time Series  
-- Concept Drift  
-- Data Science  
-
 ## 📚 Academic Projects
 
 ### 🧪 Research (PIBIC)
