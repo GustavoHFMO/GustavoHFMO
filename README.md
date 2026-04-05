@@ -1,4 +1,10 @@
-## 📚 Academic Projects
+## 📄 Papers with Code
+- [OGMMF-VRD](https://github.com/GustavoHFMO/OGMMF-VRD)  
+- [GMM-VRD](https://github.com/GustavoHFMO/GMM-VRD)  
+- [SISC](https://github.com/GustavoHFMO/SISC)  
+- [IDPSO-ELM-S](https://github.com/GustavoHFMO/IDPSO-ELM-S)  
+
+## 📚 Academic Activities
 
 ### 🧪 Research (PIBIC)
 - [PIBIC-UFAL](https://github.com/GustavoHFMO/PIBIC-UFAL)  
@@ -24,9 +30,3 @@
 ### 🛠️ Workshops & Talks
 - [Oficinas-UFAL](https://github.com/GustavoHFMO/Oficinas-UFAL)  
   Talks on machine learning, statistical data analysis, ChatGPT, and report automation.
-
-## 📄 Papers with Code
-- [IDPSO-ELM-S](https://github.com/GustavoHFMO/IDPSO-ELM-S)  
-- [GMM-VRD](https://github.com/GustavoHFMO/GMM-VRD)  
-- [OGMMF-VRD](https://github.com/GustavoHFMO/OGMMF-VRD)  
-- [SISC](https://github.com/GustavoHFMO/SISC)  
