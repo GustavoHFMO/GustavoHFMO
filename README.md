@@ -5,7 +5,7 @@
   Undergraduate research in machine learning and time series.
 
 ### 🌎 Extension
-- [Projetos de Extensão](https://github.com/GustavoHFMO/Projetos-Extensao-UFAL)  
+- [Projetos de Extensão - UFAL](https://github.com/GustavoHFMO/Projetos-Extensao-UFAL)  
   Data science initiatives with educational and social impact.
 
 ### 🧑‍🏫 Teaching
