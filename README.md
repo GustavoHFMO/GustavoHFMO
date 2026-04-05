@@ -1,4 +1,4 @@
-# Gustavo Henrique Oliveira
+# Gustavo Henrique Ferreira de Miranda Oliveira
 
 ## 🔬 Research Areas
 - Machine Learning for Time Series  
@@ -9,45 +9,31 @@
 
 ### 🧪 Research (PIBIC)
 - [PIBIC-UFAL](https://github.com/GustavoHFMO/PIBIC-UFAL)  
-Undergraduate research projects in machine learning and time series.
+  Undergraduate research in machine learning and time series.
 
-### 🌎 Extension Projects
+### 🌎 Extension
 - [Projetos de Extensão](https://github.com/GustavoHFMO/Projetos-Extensao-UFAL)  
-Data science initiatives with educational and social impact.
+  Data science initiatives with educational and social impact.
 
 ### 🧑‍🏫 Teaching
+- [TimeSeriesCIn](https://github.com/GustavoHFMO/TimeSeriesCIn)  
+  Graduate course on time series analysis.
 
-- Time Series:  
-  [TimeSeriesCIn](https://github.com/GustavoHFMO/TimeSeriesCIn)  
+- [GrupoSerDisciplinas](https://github.com/GustavoHFMO/GrupoSerDisciplinas)  
+  Courses in machine learning, deep learning, data mining, and statistics.
 
-- Data Science (ML, DL, Data Mining, Statistics):  
-  [GrupoSerDisciplinas](https://github.com/GustavoHFMO/GrupoSerDisciplinas)  
+- [WebAgenda_JavaEE](https://github.com/GustavoHFMO/WebAgenda_JavaEE)  
+  Example project for Web Programming II (Java EE).
+
+- [AppLista_ReactNative](https://github.com/GustavoHFMO/AppLista_ReactNative)  
+  Example project for Mobile Development (React Native).
 
 ### 🛠️ Workshops & Talks
 - [Oficinas-UFAL](https://github.com/GustavoHFMO/Oficinas-UFAL)  
-Talks on:
-- Introduction to Machine Learning  
-- Statistical Data Analysis  
-- ChatGPT usage  
-- Automated report generation  
+  Talks on machine learning, statistical data analysis, ChatGPT, and report automation.
 
 ## 📄 Papers with Code
 - [IDPSO-ELM-S](https://github.com/GustavoHFMO/IDPSO-ELM-S)  
 - [GMM-VRD](https://github.com/GustavoHFMO/GMM-VRD)  
 - [OGMMF-VRD](https://github.com/GustavoHFMO/OGMMF-VRD)  
 - [SISC](https://github.com/GustavoHFMO/SISC)  
-
-<!--
-**GustavoHFMO/GustavoHFMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
