@@ -12,7 +12,7 @@
 
 ### 🌎 Extension
 - [Projetos de Extensão-UFAL](https://github.com/GustavoHFMO/Projetos-Extensao-UFAL)  
-  Data science initiatives with educational and social impact.
+  Codes and papers for initiatives with educational and social impact.
 
 ### 🧑‍🏫 Teaching
 - [TimeSeriesCIn](https://github.com/GustavoHFMO/TimeSeriesCIn)  
