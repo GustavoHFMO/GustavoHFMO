@@ -8,7 +8,7 @@
 
 ### 🧪 Research (PIBIC)
 - [PIBIC-UFAL](https://github.com/GustavoHFMO/PIBIC-UFAL)  
-  Papera and codes from undergraduate research projects in machine learning and time series.
+  Papers and codes from undergraduate research projects in machine learning and time series.
 
 ### 🌎 Extension
 - [Projetos de Extensão-UFAL](https://github.com/GustavoHFMO/Projetos-Extensao-UFAL)  
